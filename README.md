@@ -1,6 +1,6 @@
 ### Hi, I'm Nick 👋
 
-### I'm a junior at The University of Iowa majoring in Business Analytics and Business Management on the leadership track. Following graduation this May, I will be working at Collins Aerospace as an AI Interactions Engineer. 
+### I'm a junior at The University of Iowa majoring in Business Analytics and receiving a certificate in Risk Management and Insurance.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/nick-schweizer) [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://nickschweizer.me/)
 
@@ -12,13 +12,6 @@
 
 ---
 
-### Spring 2023 Course Schedule 
-BAIS:4280 Cybersecurity  
-BAIS:4150 Business Analytics; Info Systems Capstone  
-BAIS:3000 Digital Product Management  
-MGMT:4325 Team and Project Management  
-CCP:3105 Transitioning from Campus to Workplace  
-HPAS:1006 Intuitive Eating  
 <!--
 **nickschweizer/nickschweizer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
